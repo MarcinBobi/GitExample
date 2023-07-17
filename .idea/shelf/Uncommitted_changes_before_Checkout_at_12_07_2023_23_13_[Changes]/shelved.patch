@@ -1,0 +1,19 @@
+Index: Dog.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Dog {\r\n\r\n    void someMethod(String text){\r\n        System.out.println(\"maefefeefrcin\");\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Dog.java b/Dog.java
+--- a/Dog.java	(revision 2ff13e5ca36a54999173eddc0bb17aae02d914dc)
++++ b/Dog.java	(date 1689196382446)
+@@ -1,7 +1,7 @@
+ public class Dog {
+ 
+     void someMethod(String text){
+-        System.out.println("maefefeefrcin");
++        System.out.println("mae8ii8ifefeefrcin");
+ 
+ 
+ 
